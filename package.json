@@ -13,7 +13,10 @@
     "react-dom": "^19.2.1",
     "lucide-react": "^0.556.0",
     "recharts": "^3.5.1",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "@google/genai": "^1.33.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

@@ -1,3 +1,4 @@
+
 export interface ExpenseRawData {
   ID_CTACTB: string;
   Nível: number;
@@ -51,7 +52,6 @@ export enum ViewMode {
   MACRO = 'MACRO',
   MICRO = 'MICRO',
   DEVIATION = 'DEVIATION',
-  PROJECTION = 'PROJECTION',
 }
 
 // --- NEW DEVIATION ANALYSIS TYPES ---
