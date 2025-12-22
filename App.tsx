@@ -6,7 +6,6 @@ import MacroView from './views/MacroView';
 import MicroView from './views/MicroView';
 import DeviationView from './views/DeviationView';
 import PeriodSelector from './components/PeriodSelector';
-import AiChatWidget from './components/AiChatWidget'; // Import Widget
 import { ViewMode, ProcessedExpense } from './types';
 import { Calendar, Loader2 } from 'lucide-react';
 import { utils, writeFile } from 'xlsx';
